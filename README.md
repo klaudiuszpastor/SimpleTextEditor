@@ -47,7 +47,7 @@ make clean
 Run the editor from the terminal by providing the filename to edit:
 
 ```bash
-./SimpleTextEditor <filename>
+./ste <filename>
 ```
 
 If the file does not exist, the editor will open an empty buffer that can be saved later.
