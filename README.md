@@ -108,16 +108,10 @@ Future updates to SimpleTextEditor may include, but are not limited to:
 - **Additional Editing Commands**  
   Expanding the set of available commands to include more advanced text manipulation features.
 
-## License
-
-This project is provided under a BSD-style license. Please refer to the source code comments for detailed licensing information.
-
 ## Acknowledgements
 
 - The original [Kilo editor](https://github.com/antirez/kilo) by Salvatore Sanfilippo served as inspiration for this project.
 - Contributions from the open-source community in demonstrating minimalist text editor design in C.
 
 ---
-
-Feel free to modify this README to suit any additional information or project-specific details you wish to include.
 
